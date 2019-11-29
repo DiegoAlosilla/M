@@ -1,0 +1,41 @@
+Propósito:
+Este curso inicia un recorrido por las diversas estrategias de desarrollo de aplicaciones móviles para luego
+enfocarse en la creación de experiencias nativas sobre dos de las principales plataformas móviles: Android y
+iOS, de tal forma que los alumnos puedan desarrollar sus competencias en la creación de soluciones móviles
+que utilicen recursos internos del dispositivo, almacenen información y se integren con servicios externos. El
+curso busca desarrollar la competencia general de Pensamiento innovador a nivel de logro 3 y la competencia
+específica de Aprendizaje Continuo y Autónomo (ABET Student Outcome 7) a nivel de logro 2. Cuenta con el
+curso prerrequisito de Aplicaciones Open Source.
+IV. LOGRO (S) DEL CURSO
+I. INFORMACIÓN GENERAL
+CURSO : Aplicaciones para Dispositivos Móviles
+CÓDIGO : CC75
+CICLO :
+201902
+CUERPO ACADÉMICO : Coronado Gutierrez, Jaime Juniors
+Mayta Guillermo, Jorge Luis
+Quevedo Velasco, David Gerardo
+Velasquez Nuñez, Angel Augusto
+CRÉDITOS :
+3
+SEMANAS :
+16
+HORAS :
+2 H (Práctica) Semanal /2 H (Teoría) Semanal
+ÁREA O CARRERA : Ciencias de la Computacion
+II. MISIÓN Y VISIÓN DE LA UPC
+Misión: Formar líderes íntegros e innovadores con visión global para que transformen el Perú.
+Visión: Ser líder en la educación superior por su excelencia académica y su capacidad de innovación.
+2
+Al finalizar el curso, el estudiante desarrolla aplicaciones móviles nativas que satisfacen requisitos para
+empresas o público en general sobre las plataformas Android y iOS, haciendo uso de las últimas tecnologías
+ofrecidas por cada fabricante en un ambiente de desarrollo ágil.
+Competencias	
+Pensamiento Innovador	
+Nivel de logro: 3	
+Capacidad para detectar necesidades y oportunidades para generar proyectos o propuestas innovadoras, viables
+y rentables. Planifica y toma decisiones eficientes orientadas al objetivo del proyecto
+Aprendizaje continuo y autónomo	
+Nivel de logro: 2	
+La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de
+aprendizaje apropiadas.
